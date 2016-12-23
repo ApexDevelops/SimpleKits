@@ -2,7 +2,7 @@ name: SimpleKits
 description: SimpleKits Plugin!
 version: 0.5
 main: simplekits\main
-api: 2.0.0
+api: [2.1.0, 3.0.0-ALPHA1]
 commands:
  kit:
   description: Main SimpleKits Command!
