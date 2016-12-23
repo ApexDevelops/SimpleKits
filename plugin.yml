@@ -1,0 +1,14 @@
+name: SimpleKits
+description: SimpleKits Plugin!
+version: 0.5
+main: simplekits\main
+api: 2.0.0
+commands:
+ kit:
+  description: Main SimpleKits Command!
+  usage: /kit [name]
+  permission: simplekits.kit
+ testkit:
+  description: Test SimpleKits Command!
+ skreload:
+  description: Reload SimpleKits!
